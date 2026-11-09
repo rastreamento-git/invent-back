@@ -7,7 +7,7 @@
   },
   "name": "meu-sistema-inventario",
   "version": "1.0.0",
-  "description": "",
+  "description": "API original do inventário de equipamentos de rastreamento, anterior à estrutura inventario-v2.",
   "main": "server.js",
   "devDependencies": {
     "@vitejs/plugin-basic-ssl": "^2.3.0"
